@@ -34,4 +34,7 @@ public class LandingPage {
 		driver.get("https://kite.zerodha.com/");
 		
 	}
+	public void test() {
+		System.out.println("I am landing page");
+	}
 }

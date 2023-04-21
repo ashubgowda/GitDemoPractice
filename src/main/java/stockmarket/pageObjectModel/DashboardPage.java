@@ -14,4 +14,7 @@ public class DashboardPage {
 	public void test3() {
 		System.out.println("dashboard page3");
 	}
+	public void test4() {
+		System.out.println("dashboard page4");
+	}
 }

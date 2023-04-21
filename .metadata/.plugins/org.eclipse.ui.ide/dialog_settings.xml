@@ -8,6 +8,7 @@
 		<list key="ENABLED_TRANSFERS">
 		</list>
 	</section>
+<<<<<<< HEAD
 	<section name="SmartImportWizard">
 		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
 		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
@@ -17,6 +18,8 @@
 			<item value="C:\Users\Admin\GitDemoPractice"/>
 		</list>
 	</section>
+=======
+>>>>>>> 32e8bd88bfb2ad5eac4aca63c0ec5f6753f1e03a
 	<section name="ExternalProjectImportWizard">
 		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
